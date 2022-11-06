@@ -3,4 +3,4 @@ FIX Internet Download Manager Trial Ends or Fake Serial Number Notification with
 
 RAR Password: IDMLOVER
 
-![idm-fix-tool](https://user-images.githubusercontent.com/74916858/200175576-1c73a3cd-13ba-4ccb-a26e-4ad1f5017e5c.png)
+![](https://user-images.githubusercontent.com/74916858/200175576-1c73a3cd-13ba-4ccb-a26e-4ad1f5017e5c.png)
